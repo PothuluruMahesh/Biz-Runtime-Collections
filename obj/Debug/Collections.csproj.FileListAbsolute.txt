@@ -1,0 +1,7 @@
+F:\JAVA\C#\Collections\Collections\bin\Debug\Collections.exe.config
+F:\JAVA\C#\Collections\Collections\bin\Debug\Collections.exe
+F:\JAVA\C#\Collections\Collections\bin\Debug\Collections.pdb
+F:\JAVA\C#\Collections\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+F:\JAVA\C#\Collections\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+F:\JAVA\C#\Collections\Collections\obj\Debug\Collections.exe
+F:\JAVA\C#\Collections\Collections\obj\Debug\Collections.pdb
